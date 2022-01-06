@@ -94,14 +94,13 @@ body{
     text-align: center;
 }
 #app-pic{
-    width: 60%; 
+    width: 90%; 
 }
 
 footer{
     text-align: center;
     color: white;
     background-color: black;
-    enable-background: accumulate;
 }
 #tw22{
     color: orangered;
