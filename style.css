@@ -1,7 +1,63 @@
-*{
-    margin: 0px;
-    padding: 0px;
-}
 body{
     font-family:'Playfair Display', serif;
+ }
+.flexible-container{
+    display: flex;
+}
+.orange-clr{
+    color: orange;
+
+}
+.first-division {
+    width: 50%;
+    
+}
+.first-division img{
+    width: 80%;
+    padding-left: 20px;
+}
+.all-bttn{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    border-radius: 5px;
+    font-weight: 800px;
+    color: white;
+    padding: 10px 40px;
+}
+.mission-header{
+    text-align: center;
+}
+#coding-pic{
+    width: 60%;
+    
+}
+.dev-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#project-pic{
+    width: 60%; 
+}
+.width-divide{
+    width: 33%;
+}
+.pic-width{
+    width: 33%;
+}
+#heading-last{
+    text-align: center;
+}
+#app-pic{
+    width: 60%; 
+}
+
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+#tw22{
+    color: orangered;
 }
